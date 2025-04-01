@@ -1,3 +1,6 @@
+# Changes in this version: 
+Prior PRs required DNN 9.11+, but this version will allow running on DNN 9.10.1+
+
 # AppInsights module for DNN Platform
 A module to use Visual Studio Application Insights with the DNN Platform CMS. The telemetry sent to AppInsights includes: page views, web requests, trace information (log4net log file content) and exceptions (including client side browser exceptions).
 
