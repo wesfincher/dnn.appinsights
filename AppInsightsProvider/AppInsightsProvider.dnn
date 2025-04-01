@@ -14,7 +14,7 @@
       <releaseNotes src="ReleaseNotes.txt"></releaseNotes>
       <azureCompatible>true</azureCompatible>
       <dependencies>
-        <dependency type="CoreVersion">09.11.00</dependency>
+        <dependency type="CoreVersion">09.10.01</dependency>
         <dependency type="ManagedPackage" version="01.00.00">Dnn.PersonaBar.UI</dependency>
       </dependencies>
 
@@ -87,7 +87,7 @@
                         nameSpacePrefix="ab">
                     <dependentAssembly xmlns="urn:schemas-microsoft-com:asm.v1">
                       <assemblyIdentity name="System.Diagnostics.DiagnosticSource" publicKeyToken="cc7b13ffcd2ddd51" />
-                      <bindingRedirect oldVersion="0.0.0.0-32767.32767.32767.32767" newVersion="5.0.0.0" />
+                      <bindingRedirect oldVersion="0.0.0.0-32767.32767.32767.32767" newVersion="6.0.0.1" />
                     </dependentAssembly>
                   </node>
                   <node path="/configuration/runtime/ab:assemblyBinding"
@@ -98,7 +98,7 @@
                         nameSpacePrefix="ab">
                     <dependentAssembly xmlns="urn:schemas-microsoft-com:asm.v1">
                       <assemblyIdentity name="System.Runtime.CompilerServices.Unsafe" publicKeyToken="b03f5f7f11d50a3a" />
-                      <bindingRedirect oldVersion="0.0.0.0-32767.32767.32767.32767" newVersion="5.0.0.0" />
+                      <bindingRedirect oldVersion="0.0.0.0-32767.32767.32767.32767" newVersion="6.0.0.0" />
                     </dependentAssembly>
                   </node>
                 </nodes>
